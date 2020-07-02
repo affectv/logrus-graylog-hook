@@ -1,4 +1,4 @@
-module github.com/hybridtheory/logrus-graylog-hook
+module github.com/hybridtheory/logrus-graylog-hook/v2
 
 go 1.14
 
